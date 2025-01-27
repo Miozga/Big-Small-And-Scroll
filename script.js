@@ -1,4 +1,4 @@
-document.body.style.height = 10000 + "vh";
+document.body.style.height = "10000px";
 
 const squere = document.createElement("div"); //tworzymy div
 document.body.appendChild(squere);
